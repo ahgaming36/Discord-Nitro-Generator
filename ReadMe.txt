@@ -1,3 +1,5 @@
+Tutorial :
+
 1 - Drop your proxies in "proxy.txt"
 
 2 - Open the launcher "Nitro generator.exe"
